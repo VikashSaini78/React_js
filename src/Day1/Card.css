@@ -1,0 +1,33 @@
+
+.card{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: yellow; */
+}
+.container{
+    width: 200px;
+    height: 450px;
+    /* background-color: aqua; */
+    text-align: center;
+    /* border:  1px 2px 3px 4px solid rgb(0, 0, 0); */
+    box-shadow: 1px 3px 1px 2px rgb(189, 189, 189);
+    
+}
+.container img{
+    width: 200px;
+    
+}
+.container button{
+    border: none;
+    outline: none;
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+    background-color: tomato;
+    color: aliceblue;
+    font-size: 15px;
+    border-radius: 5px;
+}

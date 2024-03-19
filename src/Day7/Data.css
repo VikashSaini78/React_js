@@ -1,0 +1,49 @@
+.card_div{
+    width: 270px;
+    height: 70vh;
+   margin-left: 400px;
+    background-color: rgb(221, 231, 228);
+    border: 1px solid black;
+   
+}
+
+.div_btn{
+    width: 180px;
+    height: 40px;
+    margin-left: 40px;
+    outline: none;
+    border: none;
+    background-color: tomato;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.card_div img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card_div h5{
+text-align: center;
+}
+.card_div h3{
+    font-size: 14px;
+    text-align: center;
+    }
+
+.card_div h4{
+    text-align: center;
+    color: olivedrab;
+    }
+
+    .img_data{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+   
